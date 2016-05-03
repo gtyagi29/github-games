@@ -8,3 +8,6 @@ You can play the game at: http://githubschool.github.io/github-games/
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 This is  a new line by gty
+This is  a new line by gty1
+Instructions 
+Too good and too bad
